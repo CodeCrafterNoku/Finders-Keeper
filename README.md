@@ -82,3 +82,14 @@ Usage
         Chat App: Join the conversation by using the "Community Chat" feature.
         Resume Builder: Enter your details in the form provided and let AI generate your resume.
         Job Listings: Check out job opportunities tailored to your profile or browse through the full listings.
+
+<p align="center">
+  <img src="assets/jobs.png" alt="Image 1" width="300"/>
+  <img src="assets/jobs1.png" alt="Image 2" width="300"/>
+  <img src="assets/jobs2.png" alt="Image 2" width="300"/>
+  <img src="assets/jobs3.png" alt="Image 2" width="300"/>
+
+
+</p>
+
+
